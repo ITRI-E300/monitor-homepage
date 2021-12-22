@@ -1,0 +1,18 @@
+#Modal {
+    height: 500px;
+}
+
+#Modal {
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+
+#Modal .close {
+    float: right;
+}
+
+@media only screen and (max-width: 769px) {
+    .popup-content {
+        width: 100% !important;
+    }
+}

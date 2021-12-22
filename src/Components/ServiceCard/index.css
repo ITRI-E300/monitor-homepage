@@ -1,0 +1,47 @@
+.dot {
+    height: 14px;
+    width: 14px;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.unknow{
+    background-color: #bbb;
+}
+
+.alive {
+    background-color: #79A029;
+}
+
+.dead {
+    background-color: #D2222D;
+}
+
+.card{
+    height: 500px;
+    overflow: hidden;
+    text-decoration: unset;
+    color: unset;
+}
+
+.card:hover{
+    border-color: darkgray;
+    border-width: 1px;
+    text-decoration: unset;
+    color: unset;
+    box-sizing: content-box;
+}
+
+.cursor-not-allowed{
+    /* pointer-events: none; */
+    cursor: not-allowed !important;
+    opacity: 0.7;
+}
+
+.cursor-default{
+    cursor: default !important;
+}
+
+.cursor-pointer{
+    cursor: pointer;
+}
