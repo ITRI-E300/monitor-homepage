@@ -1,5 +1,6 @@
 {
   "name": "monitor-homepage",
+  "homepage": "https://itri-e300.github.io/monitor-homepage",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
