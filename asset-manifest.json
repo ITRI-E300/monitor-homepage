@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/monitor-homepage/static/css/main.afa22893.css",
+    "main.js": "/monitor-homepage/static/js/main.acca2d01.js",
+    "static/js/787.980685b5.chunk.js": "/monitor-homepage/static/js/787.980685b5.chunk.js",
+    "index.html": "/monitor-homepage/index.html",
+    "main.afa22893.css.map": "/monitor-homepage/static/css/main.afa22893.css.map",
+    "main.acca2d01.js.map": "/monitor-homepage/static/js/main.acca2d01.js.map",
+    "787.980685b5.chunk.js.map": "/monitor-homepage/static/js/787.980685b5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.afa22893.css",
+    "static/js/main.acca2d01.js"
+  ]
+}
